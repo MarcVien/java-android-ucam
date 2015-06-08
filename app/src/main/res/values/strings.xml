@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Laboratorio5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array_ufs">
+      <item>Acre </item>
+      <item>Alagoas</item>
+      <item>Amapá </item>
+      <item>Amazonas</item>
+      <item>Bahia</item>
+      <item>Ceará</item>
+      <item>Espírito Santo</item>
+      <item>Goiás</item>
+      <item>Maranhão</item>
+      <item>Mato Grosso </item>
+      <item>Mato Grosso do Sul </item>
+      <item>Minas Gerais</item>
+      <item>Pará </item>
+      <item>Paraíba</item>
+      <item>Paraná </item>
+      <item>Pernambuco</item>
+      <item>Piauí </item>
+      <item>Rio de Janeiro</item>
+      <item>Rio Grande do Norte </item>
+      <item>Rio Grande do Sul</item>
+      <item>Rondônia</item>
+      <item>Roraima</item>
+      <item>Santa Catarina</item>
+      <item>São Paulo</item>
+      <item>Sergipe</item>
+      <item>Tocantins</item>
+    </string-array>
+    <string name="atualiza_auto">Atualizar automaticamente?</string>
+    <string name="aceito">Aceito os termos da aplicação.</string>
+    <!--ExitText-->
+    <string name="nome">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+    <!--RadioButtons-->
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <!--Toggle-->
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
